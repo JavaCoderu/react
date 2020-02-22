@@ -46,7 +46,7 @@ let testData = [
 
 ];
 
-let categories = ["Js", "React", "Meteor", "Java(ховно)"];
+let categories = ["Js", "React", "Meteor", "Java(Рулит)"];
 
 export default class Blog extends Component {
 
