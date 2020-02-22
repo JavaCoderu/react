@@ -49,6 +49,20 @@ export default class Blog extends Component {
                                     egestas, neque ut porta sodales, velit neque efficitur lectus, id feugiat felis
                                     magna ac sem. Curabitur nec.</p>
                             </Media.Body>
+                        </Media>
+                        <Media className="m-5">
+                            <img
+                                width={150}
+                                hight={150}
+                                className="mr-3"
+                                src="https://blog.hyegyeong.com/assets/images/javascript.jpeg"
+                            />
+                            <Media.Body>
+                                <h5>Blog post</h5>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel nunc dui. Duis
+                                    egestas, neque ut porta sodales, velit neque efficitur lectus, id feugiat felis
+                                    magna ac sem. Curabitur nec.</p>
+                            </Media.Body>
 
                         </Media>
                     </Col>
