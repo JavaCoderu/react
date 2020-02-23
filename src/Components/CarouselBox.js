@@ -6,6 +6,7 @@ import sity1IMG3 from '../assets/sity3.jpg'
 import sity1IMG4 from '../assets/sity4.jpg'
 
 export default class  CarouselBox extends Component{
+
     render() {
         return (
             <Carousel>

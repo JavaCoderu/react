@@ -28,6 +28,7 @@ export default class About extends Component {
                             </Nav>
                         </Col>
                         <Col sm={9}>
+                            {/*TODO: Fix me*/}
                             <Tab.Content>
                                 <Tab.Pane eventKey="first">
                                     <img src="https://avatars.mds.yandex.net/get-pdb/251121/af2e06ff-5363-41a0-bae3-267234760332/s1200" className="w-100 roundedImg"/>
