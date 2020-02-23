@@ -1,0 +1,13 @@
+version: "1"
+
+volumes:
+  web_volume:
+
+services:
+  website:
+    build: ./
+    restart: always
+    ports:
+    - 3000:8080d
+    entrypoint:
+      - TZ=Europe/Moscow
